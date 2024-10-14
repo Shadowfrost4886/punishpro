@@ -1,0 +1,19 @@
+name: PunishPro
+version: '1.0-Beta'
+main: com.me.punishpro.PunishPro
+api-version: '1.21'
+authors: [ EthanGarey, ShadowFrost4886 ]
+description: Advanced Ban System.
+website: Coming Soon
+permissions:
+  punishpro.ban:
+    description: Allows A Player To Ban Others.
+    default: op
+commands:
+  ban:
+    description: Bans A Player
+    usage: /ban <player> [-s] [Duration] [Reason]
+    aliases: [ punishproban ]
+    permission: punishpro.ban
+
+
