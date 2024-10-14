@@ -1,0 +1,47 @@
+Global:
+  Prefix: "&c<bold>PunishPro<bold>&c•"
+  NoPerms: "&cYou Dont Have Perms To Do That Command!&c"
+
+IPban:
+  - ""
+
+Ban:
+  - "&c-----------------"
+  - ""
+  - "    &9You have been banned from <ServerName>"
+  - "        &cReason: {0}"
+  - "        &cOperator: {1}"
+  - ""
+  - "        &cTime Left: {2}"
+  - ""
+  - "&c-----------------"
+
+Tempban:
+  - ""
+
+Kick:
+  - "&c You Have Been Kicked From <ServerName> &c"
+  - "&c Reason: {0} &c"
+  - "&c Operator: {1}&c"
+
+PermMute:
+  - ""
+
+TempMute:
+  - ""
+
+Warn:
+  - ""
+
+Unban:
+  - ""
+
+UnMute:
+  - ""
+
+Banlist:
+
+History:
+
+Warns:
+

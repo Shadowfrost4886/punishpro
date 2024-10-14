@@ -1,0 +1,31 @@
+# ██████╗░██╗░░░██╗███╗░░██╗██╗░██████╗██╗░░██╗██████╗░██████╗░░█████╗░ #
+# ██╔══██╗██║░░░██║████╗░██║██║██╔════╝██║░░██║██╔══██╗██╔══██╗██╔══██╗ #
+# ██████╔╝██║░░░██║██╔██╗██║██║╚█████╗░███████║██████╔╝██████╔╝██║░░██║ #
+# ██╔═══╝░██║░░░██║██║╚████║██║░╚═══██╗██╔══██║██╔═══╝░██╔══██╗██║░░██║ #
+# ██║░░░░░╚██████╔╝██║░╚███║██║██████╔╝██║░░██║██║░░░░░██║░░██║╚█████╔╝ #
+# ╚═╝░░░░░░╚═════╝░╚═╝░░╚══╝╚═╝╚═════╝░╚═╝░░╚═╝╚═╝░░░░░╚═╝░░╚═╝░╚════╝░ #
+
+# Message From Developers: Beta If Things Dont Work Report It.
+
+MySQL:
+  IP: localhost
+  Database-Name: database-name
+  Username: admin
+  Password: superdupersecretadminpassword
+  Port: 25565
+
+# Commands Disabled For Muted Players
+MuteCommands:
+  - 'msg'
+  - 'say'
+  - 'whisper'
+  - 'me'
+  - 'tell'
+  - 'reply'
+  - 'w'
+  - 'r'
+
+
+
+
+config-version: 1 # DO NOT TOUCH
