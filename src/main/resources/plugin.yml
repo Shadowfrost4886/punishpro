@@ -1,0 +1,7 @@
+name: punishpro
+version: '1.0-SNAPSHOT'
+main: com.me.punishpro.Punishpro
+api-version: '1.18'
+load: STARTUP
+authors: [ Shadow, Ethan ]
+description: Advanced Ban System.
